@@ -1,0 +1,24 @@
+.heading{
+
+    width: 100%;
+
+}
+
+.ppg{
+
+text-align: left;
+font-size: 30px;
+}
+
+#IN{
+
+float: right;
+
+}
+
+.play,.h3{
+
+font-size: 30px;
+border-radius: 50px;
+box-shadow: 5px 5px 5px red;
+}
